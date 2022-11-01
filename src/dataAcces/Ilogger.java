@@ -1,2 +1,5 @@
-package dataAcces;public class Ilogger {
+package dataAcces;
+
+public interface Ilogger {
+    void log(String data);
 }
